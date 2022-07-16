@@ -1,1 +1,1 @@
-# -AI-Assigment-Data-Visualization
+# AI-Assigment-Data-Visualization
